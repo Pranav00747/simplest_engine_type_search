@@ -10,4 +10,6 @@
   (def m "Microsoft.png")
   (set_logos_part_no_cpy g m))
 
-(set_main)
+(set_main) 
+
+; Soon many thing will happen I hope, soon Chat AI reverse type will come trying to sort out things
